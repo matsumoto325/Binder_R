@@ -1,4 +1,6 @@
 #!/bin/bash
+echo ${NB_PYTHON_PREFIX}
+echo ${LD_LIBRARY_PATH}
 set -e
 export LD_LIBRARY_PATH=${NB_PYTHON_PREFIX}/lib:${LD_LIBRARY_PATH}
 exec "$@"
