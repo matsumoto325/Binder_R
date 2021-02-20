@@ -1,0 +1,4 @@
+apt-utils
+fonts-noto-cjk
+fonts-noto-cjk-extra
+libunwind-dev
