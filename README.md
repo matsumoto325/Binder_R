@@ -1,13 +1,12 @@
 # Test Repository for Binder with R
 
-NII: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/BT/main)
+NII: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/Binder_R/master)
 
-MyBinder: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://mybinder.org/v2/gh/JaehyunSong/BT/main)
+MyBinder: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/Binder_R/master)
 
 ## 備忘録
 
 * 最上位branch名に注意。Binderのデフォルトはmasterだが、mainならbranch名にmainと指定
-* gcc-7がデフォルト?
 
 **日本語作図**
 
