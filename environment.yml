@@ -2,6 +2,5 @@ channels:
   - conda-forge
   - main
 dependencies:
-  - anaconda
   - r-base=4.0.3
   - r-tidyverse
