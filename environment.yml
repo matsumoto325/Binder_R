@@ -1,6 +1,6 @@
 channels:
+  - default
   - conda-forge
 dependencies:
-  - anaconda::anaconda
   - r-base=4.0.3
   - r-tidyverse
