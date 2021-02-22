@@ -1,7 +1,5 @@
 channels:
-  - default
   - conda-forge
 dependencies:
   - r-base=4.0.3
   - r-tidyverse
-  - r-irkernel=1.1.1
