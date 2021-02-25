@@ -1,7 +1,5 @@
 # Test Repository for Binder with R
 
-NII: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/Binder_R/master)
-
 MyBinder: [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/Binder_R/master)
 
 ## 備忘録
@@ -41,3 +39,5 @@ ggsave(filename = "Test.pdf", plot = last_plot(), device = cairo_pdf, height = 5
 * [r-conda](https://github.com/binder-examples/r-conda)
   * こっちの方がDockerイメージ生成が速いらしい
 * [オンライン分析システム（実証実験）](https://meatwiki.nii.ac.jp/confluence/display/niircosap)
+  * [初期設定](https://binder.cs.rcos.nii.ac.jp/) (学認)
+  * [Jupyter hub](https://jupyter.cs.rcos.nii.ac.jp/) (学認)
