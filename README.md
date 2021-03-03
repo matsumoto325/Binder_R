@@ -7,7 +7,7 @@
 ## 動作環境
 
 ```
-$cat /etc/lsb-release
+$ cat /etc/lsb-release
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=18.04
 DISTRIB_CODENAME=bionic
