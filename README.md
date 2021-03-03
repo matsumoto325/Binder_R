@@ -6,7 +6,7 @@
 
 ## 動作環境
 
-```
+```bash
 $ cat /etc/lsb-release
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=18.04
