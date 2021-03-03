@@ -30,7 +30,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 **パス指定**
 
-* `start`ファイルを用いて`LD_LIBRARY_PATH`を指定しないと、condaの`libstdc++.so.6`でなく、ubuntuの`libstdc++.so.6`を参照することとなり、{Rcpp}パッケージに依存するパッケージの読み込みができない。[参考](https://discourse.jupyter.org/t/glibcxx-3-4-26-not-found-from-rstudio/7778)
+* `start`ファイルを用いて`LD_LIBRARY_PATH`を指定しないと、condaの`libstdc++.so.6`でなく、ubuntuの`libstdc++.so.6`を参照することとなり、{Rcpp}パッケージに依存するパッケージの読み込みができない。[[参考](https://discourse.jupyter.org/t/glibcxx-3-4-26-not-found-from-rstudio/7778)]
   * ただし、Jupyter Notebookやターミナル上でRを使用するなら`start`ファイルはなしでOK
   * システム上のgccが9.0以上なら不要かも?
 
