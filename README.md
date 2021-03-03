@@ -7,6 +7,9 @@
 ## 動作環境
 
 ```bash
+$ $BASH_VERSION
+bash: 4.4.20(1)-release: command not found
+
 $ cat /etc/lsb-release
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=18.04
