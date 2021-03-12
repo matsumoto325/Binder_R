@@ -32,6 +32,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 **初期設定時**
 
 * 最上位branch名に注意。Binderのデフォルトはmasterだが、mainならbranch名にmainと指定
+* 分析環境から初期ファイル（`apt.txt`や`environment.yml`）などを削除したい場合は`postBuild`ファイル内で指定
 
 **パス指定 (解決済み)**
 
