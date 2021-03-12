@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm apt.txt
+rm Readme.md
+rm environment.yml
+rm postBuild
