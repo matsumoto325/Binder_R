@@ -1,6 +1,3 @@
 #!/bin/bash
 
-rm apt.txt
-rm README.md
-rm environment.yml
-rm postBuild
+rm apt.txt README.md environment.yml postBuild
