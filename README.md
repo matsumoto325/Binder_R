@@ -9,8 +9,8 @@
 国立情報学研究所 (NII) のオンライン分析システム
 
 ```bash
-$ $BASH_VERSION
-bash: 4.4.20(1)-release: command not found
+$ echo $BASH_VERSION
+4.4.20(1)-release
 
 $ cat /etc/lsb-release
 DISTRIB_ID=Ubuntu
