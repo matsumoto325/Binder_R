@@ -1,4 +1,4 @@
-# Test Repository for Binder with R
+# Test Repository for Binder with R 4.x
 
 [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/JaehyunSong/Binder_R/master) (MyBinder.org)
 
