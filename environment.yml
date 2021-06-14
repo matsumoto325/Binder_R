@@ -3,3 +3,4 @@ channels:
 dependencies:
   - r-base=4.0.3
   - r-tidyverse
+  - r-ragg
