@@ -3,3 +3,5 @@ fonts-noto-cjk-extra
 fonts-ricty-diminished
 libharfbuzz-dev
 libfribidi-dev
+libudunits2-dev
+openjdk
