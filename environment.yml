@@ -5,3 +5,6 @@ dependencies:
   - r-tidyverse
   - r-ragg
   - r-sf
+  - r-rstan
+  - r-estimatr
+  - r-margins
