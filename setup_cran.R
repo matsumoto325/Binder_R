@@ -1,0 +1,6 @@
+install.packages("daggity", repos = "https://cran.ism.ac.jp/")
+install.packages("ggdag", repos = "https://cran.ism.ac.jp/")
+install.packages("rdrobust", repos = "https://cran.ism.ac.jp/")
+install.packages("rdd", repos = "https://cran.ism.ac.jp/")
+install.packages("titanic", repos = "https://cran.ism.ac.jp/")
+install.packages("ghibli", repos = "https://cran.ism.ac.jp/")
