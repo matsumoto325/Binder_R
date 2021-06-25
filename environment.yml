@@ -7,18 +7,18 @@ dependencies:
   - r-haven
   - r-gghighlight
   - r-ghibli
-  - r-ggridge
+#  - r-ggridge
   - r-ggExtra
   - r-rnaturalearth
   - r-rnaturalearthdata
   - r-rgeos
-  - r-daggity
-  - r-ggdag
+#  - r-daggity
+#  - r-ggdag
   - r-ggalluvial
   - r-treemapify
   - r-titanic
-  - r-rdrobust
-  - r-rdd
+#  - r-rdrobust
+#  - r-rdd
   - r-xaringan
   - r-kableExtra
   - r-ggbump
