@@ -15,6 +15,7 @@ dependencies:
   - r-treemapify
   - r-xaringan
   - r-kableExtra
+  - r-formatR
   - r-ggbump
   - r-dendextend
   - r-ggdendro
