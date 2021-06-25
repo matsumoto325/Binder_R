@@ -6,7 +6,6 @@ dependencies:
   - r-xlsx
   - r-haven
   - r-gghighlight
-  - r-ghibli
   - r-ggExtra
   - r-ggridges
   - r-rnaturalearth
