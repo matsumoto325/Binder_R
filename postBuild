@@ -1,3 +1,5 @@
 #!/bin/bash
 
+Rscript install.R
+
 rm apt.txt README.md environment.yml postBuild install.R
