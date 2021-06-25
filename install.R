@@ -1,2 +1,7 @@
 remotes::install_github("uribo/jpndistrict")
 remotes::install_github("haleyjeppson/ggmosaic")
+install.packages("ggridge")
+install.packages("daggity")
+install.packages("ggdag")
+install.packages("rdrobust")
+install.packages("rdd")
