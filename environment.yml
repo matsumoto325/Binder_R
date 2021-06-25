@@ -8,6 +8,7 @@ dependencies:
   - r-gghighlight
   - r-ghibli
   - r-ggExtra
+  - r-ggridges
   - r-rnaturalearth
   - r-rnaturalearthdata
   - r-rgeos
