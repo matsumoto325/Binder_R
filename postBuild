@@ -1,5 +1,7 @@
 #!/bin/bash
 
-Rscript install.R
+Rscript setup_cran.R
 
-rm apt.txt README.md environment.yml postBuild install.R
+Rscript setup_gh.R
+
+rm apt.txt README.md environment.yml postBuild setup_cran.R setup_gh.R
