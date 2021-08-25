@@ -11,6 +11,7 @@ dependencies:
   - r-ggridges
   - r-rnaturalearth
   - r-rnaturalearthdata
+  - r-ragg
   - r-rgeos
   - r-ggalluvial
   - r-treemapify
