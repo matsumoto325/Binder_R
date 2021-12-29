@@ -16,3 +16,4 @@ texlive-lang-japanese
 texlive-luatex
 texlive-latex-recommended
 libicu-dev
+libpoppler-cpp-dev
