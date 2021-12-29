@@ -27,3 +27,4 @@ dependencies:
   - r-margins
   - r-summarytools
   - r-gt
+  - r-bookdown
