@@ -15,3 +15,4 @@ libmagick++-dev
 texlive-lang-japanese
 texlive-luatex
 texlive-latex-recommended
+libicu-dev
