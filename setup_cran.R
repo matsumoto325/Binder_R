@@ -1,3 +1,4 @@
+install.packages("pacman",   dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 install.packages("daggity",  dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 install.packages("ggdag",    dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 install.packages("rdrobust", dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
