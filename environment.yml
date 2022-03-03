@@ -3,7 +3,7 @@ channels:
   - r
   - defaults
 dependencies:
-  - r-base=4.0.5
+  - r-base=4.1.2
   - r-irkernel
   - r-pacman
   - r-tidyverse
@@ -40,5 +40,3 @@ dependencies:
   - r-dendextend
   - r-ggdendro
   - r-ggmosaic
-  # Dataset
-  - r-titanic
