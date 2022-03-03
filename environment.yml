@@ -1,8 +1,11 @@
 channels:
   - conda-forge
+  - r
+  - defaults
 dependencies:
-  - r-base=4.1.2
+  - r-base=4.0.5
   - r-irkernel
+  - r-pacman
   - r-tidyverse
   - r-xlsx
   - r-haven
