@@ -9,6 +9,21 @@ dependencies:
   - r-tidyverse
   - r-xlsx
   - r-haven
+  - r-remotes
+  # R Markdown
+  - r-xaringan
+  - r-kableExtra
+  - r-formatR
+  - r-summarytools
+  - r-gt
+  - r-bookdown
+  # Estimation
+  - r-rstan
+  - r-estimatr
+  - r-margins
+  - r-prediction
+  - r-rdrobust
+  # Visualization
   - r-gghighlight
   - r-ggExtra
   - r-ggridges
@@ -18,16 +33,9 @@ dependencies:
   - r-rgeos
   - r-ggalluvial
   - r-treemapify
-  - r-xaringan
-  - r-kableExtra
-  - r-formatR
+  - r-ghibli
   - r-ggbump
   - r-dendextend
   - r-ggdendro
-  - r-remotes
-  - r-rstan
-  - r-estimatr
-  - r-margins
-  - r-summarytools
-  - r-gt
-  - r-bookdown
+  # Dataset
+  - r-titanic
