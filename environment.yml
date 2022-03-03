@@ -37,5 +37,6 @@ dependencies:
   - r-ggbump
   - r-dendextend
   - r-ggdendro
+  - r-ggmosaic
   # Dataset
   - r-titanic
