@@ -1,9 +1,9 @@
 channels:
   - conda-forge
 dependencies:
-  - r-base=4.1.2
+  - r-base=4.0.5
   - r-irkernel
-  - r-pacman
+  #- r-pacman
   - r-tidyverse
   - r-xlsx
   - r-haven
@@ -21,7 +21,7 @@ dependencies:
   - r-estimatr
   - r-margins
   - r-prediction
-  - r-rdrobust
+  #- r-rdrobust
   # Visualization
   - r-ggpubr
   - r-gghighlight
@@ -33,7 +33,7 @@ dependencies:
   - r-rgeos
   - r-ggalluvial
   - r-treemapify
-  - r-ghibli
+  #- r-ghibli
   - r-ggbump
   - r-dendextend
   - r-ggdendro
