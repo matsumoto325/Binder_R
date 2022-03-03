@@ -25,6 +25,7 @@ dependencies:
   - r-prediction
   - r-rdrobust
   # Visualization
+  - r-ggpubr
   - r-gghighlight
   - r-ggExtra
   - r-ggridges
