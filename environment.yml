@@ -11,12 +11,13 @@ dependencies:
   - r-haven
   - r-remotes
   # R Markdown
-  - r-xaringan
-  - r-kableExtra
+  - r-rmarkdown
   - r-formatR
   - r-summarytools
   - r-gt
+  - r-kableExtra
   - r-bookdown
+  - r-xaringan
   # Estimation
   - r-rstan
   - r-estimatr
