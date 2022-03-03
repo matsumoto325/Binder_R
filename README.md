@@ -40,21 +40,6 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 * 最上位branch名に注意。Binderのデフォルトはmasterだが、mainならbranch名にmainと指定
 * 分析環境から初期ファイル（`apt.txt`や`environment.yml`）などを削除したい場合は`postBuild`ファイル内で指定
 
-**パス指定 (解決済み)**
-
-* NIIオンライン分析システムでは解決
-* `start`ファイルを用いて`LD_LIBRARY_PATH`を指定しないと、condaの`libstdc++.so.6`でなく、ubuntuの`libstdc++.so.6`を参照することとなり、{Rcpp}パッケージに依存するパッケージの読み込みができない。[[参考](https://discourse.jupyter.org/t/glibcxx-3-4-26-not-found-from-rstudio/7778)]
-  * ただし、Jupyter Notebookやターミナル上でRを使用するなら`start`ファイルはなしでOK
-  * システム上のgccが9.0以上なら不要かも?
-* {Rcpp}に依存するパッケージ読み込みの際、`/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version 'GLIBCXX_3.4.26' not found`のエラーが表示される場合、レポジトリに`start`ファイルを生成し、以下のように記述
-
-```bash
-#!/bin/bash
-set -e
-export LD_LIBRARY_PATH=${NB_PYTHON_PREFIX}/lib:${LD_LIBRARY_PATH}
-exec "$@"
-```
-
 **日本語作図**
 
 RStudio上で表示は問題ない。ただし、PDFで書き出す際、フォントの埋め込みが必要なのでdeviceをCairoに指定。
