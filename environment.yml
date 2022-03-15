@@ -25,6 +25,7 @@ dependencies:
   - r-gghighlight
   - r-ggExtra
   - r-ggridges
+  - r-sf
   - r-rnaturalearth
   - r-rnaturalearthdata
   - r-ragg
