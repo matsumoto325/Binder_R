@@ -25,14 +25,18 @@ dependencies:
   - r-gghighlight
   - r-ggExtra
   - r-ggridges
-  - r-sf
-  - r-rnaturalearth
-  - r-rnaturalearthdata
   - r-ragg
-  - r-rgeos
   - r-ggalluvial
   - r-treemapify
   - r-ggbump
   - r-dendextend
   - r-ggdendro
   - r-ggmosaic
+  # Spatial
+  - r-sf
+  - r-rgeos
+  - r-rnaturalearth
+  - r-rnaturalearthdata
+  - r-raster
+  - r-terra
+  - r-leaflet
