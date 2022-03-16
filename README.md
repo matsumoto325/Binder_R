@@ -2,13 +2,11 @@
 
 『[私たちのR: ベストプラクティスの探求](https://www.jaysong.net/RBook/)』の学習に必要なパッケージのみ事前インストールしたまっさらなR環境
 
----
 
 ## Rの使い方
 
 『私たちのR: ベストプラクティスの探求』(<https://www.jaysong.net/RBook/>)
 
----
 
 ## 動作環境
 
@@ -31,7 +29,6 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
----
 
 ## 備忘録
 
@@ -62,7 +59,6 @@ ggsave(filename = "Test.pdf", plot = last_plot(), device = cairo_pdf, height = 5
 
 * Jupyter hubから`.Rproj`を選択しても開かれないため、RStudioを起動し、File > Open Project...で開く必要がある。
 
----
 
 ## 参考
 
