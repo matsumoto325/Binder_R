@@ -10,8 +10,6 @@
 
 ## 動作環境
 
-国立情報学研究所 (NII) のオンライン分析システム
-
 ```bash
 $ echo $BASH_VERSION
 4.4.20(1)-release
