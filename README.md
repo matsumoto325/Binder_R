@@ -27,6 +27,12 @@ gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 Copyright (C) 2017 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+$ R --version
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+
+$ rstudio-server version
+2021.09.1+372 (Ghost Orchid) for Ubuntu Bionic
 ```
 
 
