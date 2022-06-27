@@ -5,8 +5,8 @@
 
 ## Rの使い方
 
-『私たちのR: ベストプラクティスの探求』(<https://www.jaysong.net/RBook/>)
-
+* 宋財泫・矢内勇生『私たちのR: ベストプラクティスの探求』(Web-book): <https://www.jaysong.net/RBook/>
+* 関西大学総合情報学部2022年度「ミクロ政治データ分析実習」のサポートページ: <https://www.jaysong.net/micro-book/intro/install.html>
 
 ## 動作環境
 
