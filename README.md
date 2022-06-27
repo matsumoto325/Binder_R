@@ -59,6 +59,14 @@ tibble(x = rnorm(10), y = rnorm(10)) %>%
 ggsave(filename = "Test.pdf", plot = last_plot(), device = cairo_pdf, height = 5, width = 5)
 ```
 
+PNG出力なら{ragg}で一発解決
+
+* デバイス（`dev`）は`ragg::agg_png`、解像度（`dpi`）は300以上にしておけば、印刷しても綺麗な図ができる。むろん、文字化けの心配もない。
+
+```{r}
+ggsave(..., dev = ragg::agg_png, dpi = 300, ...)
+```
+
 **プロジェクトを開く**
 
 * Jupyter hubから`.Rproj`を選択しても開かれないため、RStudioを起動し、File > Open Project...で開く必要がある。
