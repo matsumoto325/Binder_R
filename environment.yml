@@ -7,6 +7,8 @@ dependencies:
   - r-xlsx
   - r-haven
   - r-remotes
+  # Data Handling
+  - r-naniar
   # R Markdown
   - r-rmarkdown
   - r-formatR
