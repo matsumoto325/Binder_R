@@ -1,4 +1,4 @@
-# Test Repository for Binder with R 4.1.2
+# Test Repository for Binder with R 4.1.3
 
 『[私たちのR: ベストプラクティスの探求](https://www.jaysong.net/RBook/)』の学習に必要なパッケージのみ事前インストールしたまっさらなR環境
 
@@ -27,7 +27,7 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 $ R --version
-R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+R version 4.1.3 (2022-03-10) -- "One Push-Up"
 
 $ rstudio-server version
 2021.09.1+372 (Ghost Orchid) for Ubuntu Bionic
