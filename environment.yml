@@ -1,7 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - r-base=4.1.3
+  - r-base=4.2.2
   - r-irkernel
   - r-tidyverse
   - r-xlsx
@@ -10,8 +10,10 @@ dependencies:
   - r-devtools
   # Data Handling
   - r-naniar
+  - r-fastdummies
   # R Markdown
   - r-rmarkdown
+  - r-quarto
   - r-formatR
   - r-summarytools
   - r-gt
