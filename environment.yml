@@ -26,6 +26,7 @@ dependencies:
   - r-margins
   - r-prediction
   - r-modelsummary
+  - r-marginaleffects
   # Visualization
   - r-ggpubr
   - r-gghighlight
