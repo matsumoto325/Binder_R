@@ -5,7 +5,6 @@ Rscript setup_cran.R
 Rscript setup_gh.R
 
 wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.2.313/quarto-1.2.313-linux-amd64.deb
-apt install quarto-1.2.313-linux-amd64.deb
-dpkg -i quarto-1.2.313-linux-amd64.deb
+gdebi quarto-1.2.313-linux-amd64.deb
 
 rm apt.txt README.md environment.yml postBuild setup_cran.R setup_gh.R
