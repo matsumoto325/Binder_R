@@ -6,8 +6,7 @@
 ## Rの使い方
 
 * 宋財泫・矢内勇生『私たちのR: ベストプラクティスの探求』(Web-book): <https://www.jaysong.net/RBook/>
-* 関西大学総合情報学部「ミクロ政治データ分析実習」のサポートページ: <https://www.jaysong.net/micro-book/>
-* 関西大学総合情報学部「マクロ政治データ分析実習」のサポートページ: <https://www.jaysong.net/macro-book/>
+* 関西大学総合情報学部「ミクロ/マクロ政治データ分析実習」のサポートページ: <https://www.jaysong.net/r4ps/>
 
 ## 動作環境
 
