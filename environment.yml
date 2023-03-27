@@ -43,6 +43,7 @@ dependencies:
   - r-ggdendro
   - r-ggmosaic
   - r-gt
+  - r-ghibli
   # Spatial
   - r-sf
   - r-rgeos
@@ -51,3 +52,5 @@ dependencies:
   - r-raster
   - r-terra
   - r-leaflet
+  # Dataset
+  - r-titanic
