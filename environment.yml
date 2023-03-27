@@ -15,11 +15,11 @@ dependencies:
   # R Markdown
   - r-rmarkdown
   - r-quarto
-  - r-formatR
+  - r-formatr
   - r-summarytools
   - r-gt
   - r-gtextras
-  - r-kableExtra
+  - r-kableextra
   - r-bookdown
   - r-xaringan
   - r-tinytex
