@@ -18,7 +18,7 @@ $ cat /etc/lsb-release
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=18.04
 DISTRIB_CODENAME=bionic
-DISTRIB_DESCRIPTION="Ubuntu 18.04.5 LTS"
+DISTRIB_DESCRIPTION="Ubuntu 18.04.6 LTS"
 
 $ gcc --version
 gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
@@ -27,10 +27,10 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 $ R --version
-R version 4.1.3 (2022-03-10) -- "One Push-Up"
+R version 4.2.2 (2022-10-31) -- "Innocent and Trusting"
 
 $ rstudio-server version
-2021.09.1+372 (Ghost Orchid) for Ubuntu Bionic
+2022.12.0+353 (Elsbeth Geranium) for Ubuntu Bionic
 ```
 
 
