@@ -17,9 +17,11 @@ dependencies:
   - r-formatR
   - r-summarytools
   - r-gt
+  - r-gtextras
   - r-kableExtra
   - r-bookdown
   - r-xaringan
+  - r-tinytex
   # Estimation
   - r-rstan
   - r-estimatr
