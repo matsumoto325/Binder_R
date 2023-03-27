@@ -8,6 +8,7 @@ dependencies:
   - r-haven
   - r-remotes
   - r-devtools
+  - r-pacman
   # Data Handling
   - r-naniar
   - r-fastdummies
