@@ -1,4 +1,4 @@
-# Test Repository for Binder with R 4.1.3
+# Test Repository for Binder with R 4.2.2
 
 『[私たちのR: ベストプラクティスの探求](https://www.jaysong.net/RBook/)』の学習に必要なパッケージのみ事前インストールしたまっさらなR環境
 
