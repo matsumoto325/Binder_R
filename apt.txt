@@ -1,4 +1,3 @@
-gdebi
 fonts-noto-cjk
 fonts-noto-cjk-extra
 fonts-ricty-diminished
