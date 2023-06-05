@@ -17,3 +17,4 @@ texlive-luatex
 texlive-latex-recommended
 libicu-dev
 libpoppler-cpp-dev
+libgmp-dev
