@@ -30,6 +30,7 @@ dependencies:
   - r-prediction
   - r-modelsummary
   - r-marginaleffects
+  - r-gmp
   # Visualization
   - r-ggpubr
   - r-gghighlight
