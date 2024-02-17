@@ -14,7 +14,7 @@ dependencies:
   - r-fastdummies
   # R Markdown
   - r-rmarkdown
-  #- r-quarto=1.2
+  - r-quarto
   - r-formatr
   - r-summarytools
   - r-gt
