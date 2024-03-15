@@ -18,3 +18,4 @@ texlive-latex-recommended
 libicu-dev
 libpoppler-cpp-dev
 libgmp-dev
+librsvg2-dev
