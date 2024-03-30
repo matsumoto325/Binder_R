@@ -19,4 +19,4 @@ libicu-dev
 libpoppler-cpp-dev
 libgmp-dev
 librsvg2-dev
-libgdal
+libgdal-dev
