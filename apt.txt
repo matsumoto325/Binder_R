@@ -15,6 +15,7 @@ libmagick++-dev
 texlive-lang-japanese
 texlive-luatex
 texlive-latex-recommended
+texlive-plain-generic
 libicu-dev
 libpoppler-cpp-dev
 libgmp-dev
