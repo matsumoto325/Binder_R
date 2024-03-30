@@ -61,6 +61,8 @@ echo
 echo Completed
 echo
 
+quarto install tinytex
+
 Rscript setup_cran.R
 
 Rscript setup_gh.R
